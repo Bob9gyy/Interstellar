@@ -7,3 +7,6 @@ const config = {
 };
 
 export default config;
+config=true npm start
+npm i
+npm run start
